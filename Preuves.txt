@@ -1,7 +1,32 @@
 Preuve 1
+Données : code 1, quantité 3, montant versé 5000
+Commande : node cantine.js
+Sortie :
 Client : Awa
 Portion 1 : Attiéké-poisson - 1500 FCFA
 Portion 2 : Attiéké-poisson - 1500 FCFA
 Portion 3 : Attiéké-poisson - 1500 FCFA
 Total à payer : 4500 FCFA
 Monnaie à rendre : 500 FCFA
+
+Preuve 2
+Données : code 2, quantité 2, montant versé 3000
+Commande : node cantine.js
+Sortie :
+Client : Awa
+Portion 1 : Riz-poulet - 2000 FCFA
+Portion 2 : Riz-poulet - 2000 FCFA
+Total à payer : 4000 FCFA
+Montant manquant :1000 FCFA
+
+Preuve 3
+Données : code 3, quantité 4, montant versé 4000
+Commande : node cantine.js
+Sortie :
+Client : Awa
+Portion 1 : Alloco-oeuf - 1000 FCFA
+Portion 2 : Alloco-oeuf - 1000 FCFA
+Portion 3 : Alloco-oeuf - 1000 FCFA
+Portion 4 : Alloco-oeuf - 1000 FCFA
+Total à payer : 4000 FCFA
+Monnaie à rendre : 0 FCFA
