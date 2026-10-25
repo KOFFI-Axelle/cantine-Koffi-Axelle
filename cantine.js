@@ -17,8 +17,8 @@ switch (codePlat) {
         nomPlat = "Riz-poullet";
         prixUnitaire = 2000;
         break;
-        case 3:
-            nomPlat = "AlLoco-poulet";
+    case 3:
+            nomPlat = "Alloco-poulet";
             prixUnitaire = 1000;
             break;
         default:
